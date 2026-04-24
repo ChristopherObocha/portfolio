@@ -71,7 +71,6 @@ export default function Projects() {
             <div className="project-name">Charge EV (Swarco UK)</div>
             <p className="project-desc">Pan-European EV charging network app. Real-time charge point map and status, session management, RFID and in-app payment flows, session history and invoicing. Thousands of charge points across the UK and Europe.</p>
             <div className="project-tags">
-              <span className="project-tag">React Native</span>
               <span className="project-tag">iOS</span>
               <span className="project-tag">Android</span>
               <span className="project-tag">Real-time</span>
@@ -91,6 +90,7 @@ export default function Projects() {
               <span className="project-tag">TypeScript</span>
               <span className="project-tag">Python</span>
               <span className="project-tag">Convex</span>
+              <span className="project-tag">Romcal</span>
             </div>
             <ProjectLinks links={[
               { type: 'github', url: 'https://github.com/christopherobocha/ordo' },
