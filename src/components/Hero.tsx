@@ -3,20 +3,20 @@ export default function Hero() {
     <section id="hero">
       <div className="hero-gradient" />
       <div className="container hero-content">
-        <div className="hero-eyebrow">Leeds, England 🇬🇧</div>
+        <div className="hero-eyebrow">Leeds &amp; London, England 🇬🇧</div>
 
         <div className="hero-name-wrap">
           <span className="hero-name">Christopher Obocha</span>
           <span className="hero-name-reveal" aria-hidden="true" />
         </div>
 
-        <div className="hero-title">Senior Software Engineer</div>
+        <div className="hero-title">Software Engineer</div>
 
         <p className="hero-oneliner">
           I build mobile and full-stack products that ship — from architecture to App Store.
         </p>
         <p className="hero-location">
-          Co-founder &amp; CTO · Lead Mobile Engineer · MSc Cyber Security (Distinction)
+          Co-founder &amp; CTO · AI Engineer · MSc Cyber Security (Distinction)
         </p>
 
         <div className="hero-actions">

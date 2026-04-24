@@ -9,7 +9,7 @@ const stackGroups = [
   },
   {
     label: 'Backend',
-    tags: ['Supabase', 'PostgreSQL', 'Node.js', 'REST APIs', 'GraphQL / Apollo', 'Edge Functions'],
+    tags: ['Supabase', 'PostgreSQL', 'Node.js', 'REST APIs', 'GraphQL / Apollo', 'Edge Functions', 'Python'],
   },
   {
     label: 'AI',

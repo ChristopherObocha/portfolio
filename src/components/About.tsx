@@ -14,13 +14,14 @@ export default function About() {
         <div className="about-grid">
           <div className="about-text reveal">
             <p>
-              Senior engineer with <strong>6+ years</strong> shipping production React Native and full-stack TypeScript applications. Co-founder and CTO of <strong>Runwae</strong>, a travel-tech startup. Lead Mobile Engineer at <strong>Hylark</strong>, an AI-powered life management platform. Background spans mobile architecture, Supabase, API integrations, and production AI with the Anthropic Claude API.
+            6+ years building production apps with <strong>TypeScript</strong> and <strong>Python</strong>. Co-founder &amp; CTO of <strong>Runwae</strong>, Lead Mobile Engineer at Hylark, massive chess fan, avid reader. I work at the intersection of software development and AI — shipping real LLM-powered features, not just prototypes.
+            </p>
+
+            <p>
+              Organiser of LeedsJS — Leeds&apos;s JavaScript community — and a published speaker on mobile security. MSc Cyber Security with Distinction from the University of Hertfordshire. Prolific Tech Awards App of the Year 2023.
             </p>
             <p>
-              Organiser of <strong>LeedsJS</strong> — Leeds&apos;s JavaScript community — and a published speaker on mobile security. <strong>MSc Cyber Security with Distinction</strong> from the University of Hertfordshire. Prolific Tech Awards <strong>App of the Year 2023</strong>.
-            </p>
-            <p>
-              Passionate about building things that are both technically sound and genuinely useful to real people.
+              I&apos;m increasingly convinced the most interesting engineering problems right now sit at the boundary between LLMs and real products. 
             </p>
           </div>
           <div className="about-highlights reveal-stagger">
