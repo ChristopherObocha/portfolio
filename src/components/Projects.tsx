@@ -18,17 +18,18 @@ export default function Projects() {
             <div className="project-name">Runwae</div>
             <p className="project-desc">Travel-tech startup. AI-powered trip planning and group itinerary collaboration. Integrates Anthropic Claude for itinerary generation, Viator for experiences, and LiteAPI for hotel booking.</p>
             <div className="project-tags">
-              <span className="project-tag">React Native</span>
-              <span className="project-tag">Expo</span>
+              {/* <span className="project-tag">React Native</span>
+              <span className="project-tag">Next.js</span> */}
+              <span className="project-tag">TypeScript</span>
+              <span className="project-tag">PostgreSQL</span>
               <span className="project-tag">Supabase</span>
               <span className="project-tag">Claude API</span>
-              <span className="project-tag">TypeScript</span>
             </div>
           </div>
 
           {/* Hylark — has public URL */}
           <a href="https://app.hylark.com" target="_blank" rel="noopener" className="project-card">
-            <div className="project-role">Lead Mobile Engineer</div>
+            <div className="project-role">Lead Software Engineer</div>
             <div className="project-name">Hylark</div>
             <p className="project-desc">AI-powered life management and productivity platform. ISO 27001 certified. Features notes, tasks, calendar, pinboard, links, and collaboration tools — all in one app.</p>
             <div className="project-tags">
@@ -41,19 +42,20 @@ export default function Projects() {
 
           {/* GoodShape — no public URL */}
           <div className="project-card">
-            <div className="project-role">Mobile Software Engineer</div>
+            <div className="project-role">Lead Software Engineer</div>
             <div className="project-name">GoodShape</div>
             <p className="project-desc">UK enterprise health and absence management app. 120,000+ annual engaged users. £220k+ project investment.</p>
             <div className="project-award">🏆 App of the Year — Prolific Tech Awards 2023</div>
             <div className="project-tags">
               <span className="project-tag">React Native</span>
               <span className="project-tag">Enterprise</span>
+              <span className="project-tag">EBM AI</span>
             </div>
           </div>
 
           {/* Charge EV — no public URL */}
           <div className="project-card">
-            <div className="project-role">Mobile Software Engineer</div>
+            <div className="project-role">Software Engineer</div>
             <div className="project-name">Charge EV (Swarco UK)</div>
             <p className="project-desc">Pan-European EV charging network app. Real-time charge point map and status, session management, RFID and in-app payment flows, session history and invoicing. Thousands of charge points across the UK and Europe.</p>
             <div className="project-tags">
@@ -61,18 +63,19 @@ export default function Projects() {
               <span className="project-tag">iOS</span>
               <span className="project-tag">Android</span>
               <span className="project-tag">Real-time</span>
+              <span className="project-tag">Node.js</span>
             </div>
           </div>
 
           {/* Ordo — no public URL */}
           <div className="project-card">
-            <div className="project-role">Mobile Software Engineer</div>
+            <div className="project-role">Software Engineer</div>
             <div className="project-name">Ordo</div>
-            <p className="project-desc">Liturgical prayer and Catholic devotional life app, in collaboration with the Cathedral Church of St Anne, Leeds — the mother church of the Diocese of Leeds, serving ~170,000 Catholics across West Yorkshire.</p>
+            <p className="project-desc">Liturgical rota and clergy coordination app, built in partnership with the Cathedral Church of St Anne, Leeds — mother church of the Diocese of Leeds, serving ~170,000 Catholics across West Yorkshire.</p>
             <div className="project-tags">
-              <span className="project-tag">React Native</span>
-              <span className="project-tag">Liturgy</span>
-              <span className="project-tag">Diocese of Leeds</span>
+              <span className="project-tag">TypeScript</span>
+              <span className="project-tag">Python</span>
+              <span className="project-tag">Convex</span>
             </div>
           </div>
 
