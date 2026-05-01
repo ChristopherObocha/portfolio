@@ -19,17 +19,17 @@ export default function Experience() {
           <div className="timeline-item">
             <div className="timeline-dot" />
             <div className="timeline-body">
-              <div className="timeline-period">2025 — Present</div>
+              <div className="timeline-period">2025 - Present</div>
               <div className="timeline-title">Co-founder &amp; CTO</div>
               <div className="timeline-company">Runwae</div>
-              <p className="timeline-desc">Leading all technical decisions for a travel-tech startup building AI-powered group itinerary planning. Architecture, engineering, and product — from zero to shipped.</p>
+              <p className="timeline-desc">Leading all technical decisions for a travel-tech startup building AI-powered group itinerary planning. Architecture, engineering, and product - from zero to shipped.</p>
             </div>
           </div>
 
           <div className="timeline-item">
             <div className="timeline-dot" />
             <div className="timeline-body">
-              <div className="timeline-period">2025 — Present</div>
+              <div className="timeline-period">2025 - Present</div>
               <div className="timeline-title">Lead Mobile Engineer</div>
               <div className="timeline-company">Hylark</div>
               <p className="timeline-desc">Leading mobile engineering for an AI-powered life management platform. ISO 27001 certified product serving a growing user base.</p>
@@ -39,17 +39,17 @@ export default function Experience() {
           <div className="timeline-item">
             <div className="timeline-dot" />
             <div className="timeline-body">
-              <div className="timeline-period">2022 — 2024</div>
+              <div className="timeline-period">2022 - 2024</div>
               <div className="timeline-title">Software Engineer</div>
               <div className="timeline-company">The Distance (Agency)</div>
-              <p className="timeline-desc">Delivered enterprise-grade React Native apps across multiple client verticals — including an award-winning enterprise health platform (GoodShape) and a pan-European EV charging network app (Charge EV / Swarco UK).</p>
+              <p className="timeline-desc">Delivered enterprise-grade React Native apps across multiple client verticals - including an award-winning enterprise health platform (GoodShape) and a pan-European EV charging network app (Charge EV / Swarco UK).</p>
             </div>
           </div>
 
           <div className="timeline-item">
             <div className="timeline-dot" />
             <div className="timeline-body">
-              <div className="timeline-period">2021 — 2022</div>
+              <div className="timeline-period">2021 - 2022</div>
               <div className="timeline-title">Software Engineer</div>
               <div className="timeline-company">NHS HPFT</div>
               <p className="timeline-desc">Developed and maintained applications for the NHS HPFT to manage their workforce and assist international staff.</p>
@@ -59,7 +59,7 @@ export default function Experience() {
           <div className="timeline-item">
             <div className="timeline-dot" />
             <div className="timeline-body">
-              <div className="timeline-period">2021 — 2022</div>
+              <div className="timeline-period">2021 - 2022</div>
               <div className="timeline-title">MSc Cyber Security</div>
               <div className="timeline-company">University of Hertfordshire</div>
               <p className="timeline-desc">Researched and applied offensive security techniques including coordinated brute-force and RDP-based attacks within controlled penetration testing simulations. Graduated with Distinction.</p>
@@ -69,7 +69,7 @@ export default function Experience() {
           <div className="timeline-item">
             <div className="timeline-dot" />
             <div className="timeline-body">
-              <div className="timeline-period">2016 — 2020</div>
+              <div className="timeline-period">2016 - 2020</div>
               <div className="timeline-title">BSc Computer Science</div>
               <div className="timeline-company">Babcock University</div>
               <p className="timeline-desc">Engineered an autonomous vehicle system from the ground up as a flagship project. Served as Student Body President and Debate First Chair, leading the team to a championship in 2017. Recognised with the Face of BUCC Award (2020) and Exemplarary Leadership Award (2020).</p>

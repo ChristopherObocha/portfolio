@@ -5,7 +5,7 @@ export default function Contact() {
         <p className="section-label reveal">Contact</p>
         <h2 className="section-title reveal">Let&apos;s work together.</h2>
         <p className="contact-subtitle reveal">
-          Open to senior engineering roles, contract work, and advisory conversations — particularly in mobile, AI-integrated products, and startups building something real.
+          Open to senior engineering roles, contract work, and advisory conversations - particularly in mobile, AI-integrated products, and startups building something real.
         </p>
         <div className="contact-actions reveal">
           <a href="mailto:christopher@obocha.dev" className="btn-primary">

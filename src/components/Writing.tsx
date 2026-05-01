@@ -21,8 +21,8 @@ export default function Writing({ preview = false }: WritingProps) {
               Talk
             </div>
             <div className="writing-title">Secure Authentication &amp; Authorisation in React Native</div>
-            <div className="writing-meta">LeedsJS Meetup, Leeds — February 2024</div>
-            <p className="writing-desc">A practical deep-dive into securing mobile apps — covering token storage, OAuth flows, biometric auth, and common vulnerabilities.</p>
+            <div className="writing-meta">LeedsJS Meetup, Leeds - February 2024</div>
+            <p className="writing-desc">A practical deep-dive into securing mobile apps - covering token storage, OAuth flows, biometric auth, and common vulnerabilities.</p>
             <div className="writing-arrow">Presented at LeedsJS →</div>
           </div>
 
@@ -41,7 +41,7 @@ export default function Writing({ preview = false }: WritingProps) {
             </div>
             <div className="writing-title">Secure Authentication &amp; Authorisation in React Native</div>
             <div className="writing-meta">Published on Medium</div>
-            <p className="writing-desc">A practical deep-dive into securing mobile apps — covering token storage, OAuth flows, biometric auth, and common vulnerabilities.</p>
+            <p className="writing-desc">A practical deep-dive into securing mobile apps - covering token storage, OAuth flows, biometric auth, and common vulnerabilities.</p>
             <div className="writing-arrow">Read on Medium →</div>
           </a>
 

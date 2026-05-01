@@ -13,7 +13,7 @@ const writingItems = [
     date: 'February 2024',
     venue: 'LeedsJS Meetup, Leeds',
     title: 'Secure Authentication & Authorisation in React Native',
-    desc: 'A practical deep-dive into securing mobile apps — covering token storage strategies, OAuth flows, biometric authentication with Face ID and fingerprint, and the most common mobile security vulnerabilities to guard against.',
+    desc: 'A practical deep-dive into securing mobile apps - covering token storage strategies, OAuth flows, biometric authentication with Face ID and fingerprint, and the most common mobile security vulnerabilities to guard against.',
     tags: ['React Native', 'Security', 'OAuth', 'Biometrics', 'Mobile'],
     platform: 'LeedsJS',
     href: null,
@@ -122,7 +122,7 @@ export default function WritingPage() {
         </div>
 
         {visible.length === 0 && (
-          <div className="empty-state visible">Nothing here yet — check back soon.</div>
+          <div className="empty-state visible">Nothing here yet - check back soon.</div>
         )}
 
         <div className="medium-cta reveal">

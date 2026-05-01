@@ -19,11 +19,11 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Christopher Obocha — Senior Software Engineer',
+  title: 'Christopher Obocha - Senior Software Engineer',
   description: 'Senior Mobile & Full-Stack Engineer. Co-founder & CTO of Runwae. Lead Mobile Engineer at Hylark. Leeds, England.',
   openGraph: {
-    title: 'Christopher Obocha — Senior Software Engineer',
-    description: 'I build mobile and full-stack products that ship — from architecture to App Store.',
+    title: 'Christopher Obocha - Senior Software Engineer',
+    description: 'I build mobile and full-stack products that ship - from architecture to App Store.',
     url: 'https://obocha.dev',
     siteName: 'Christopher Obocha',
     locale: 'en_GB',
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Christopher Obocha — Senior Software Engineer',
+    title: 'Christopher Obocha - Senior Software Engineer',
   },
 }
 

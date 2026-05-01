@@ -13,7 +13,7 @@ export default function Hero() {
         <div className="hero-title">Software Engineer</div>
 
         <p className="hero-oneliner">
-          I build mobile and full-stack products that ship — from architecture to App Store.
+          I build mobile and full-stack products that ship - from architecture to App Store.
         </p>
         <p className="hero-location">
           Co-founder &amp; CTO · AI Engineer · MSc Cyber Security (Distinction)

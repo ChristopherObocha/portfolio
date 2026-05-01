@@ -36,7 +36,7 @@ export default function Projects() {
           <a href="https://app.hylark.com" target="_blank" rel="noopener" className="project-card">
             <div className="project-role">Lead Software Engineer</div>
             <div className="project-name">Hylark</div>
-            <p className="project-desc">AI-powered life management and productivity platform. ISO 27001 certified. Features notes, tasks, calendar, pinboard, links, and collaboration tools — all in one app.</p>
+            <p className="project-desc">AI-powered life management and productivity platform. ISO 27001 certified. Features notes, tasks, calendar, pinboard, links, and collaboration tools - all in one app.</p>
             <div className="project-tags">
               <span className="project-tag">React Native</span>
               <span className="project-tag">GraphQL / Apollo</span>
@@ -54,7 +54,7 @@ export default function Projects() {
             <div className="project-role">Lead Software Engineer</div>
             <div className="project-name">GoodShape</div>
             <p className="project-desc">UK enterprise health and absence management app. 120,000+ annual engaged users. £220k+ project investment.</p>
-            <div className="project-award">🏆 App of the Year — Prolific Tech Awards 2023</div>
+            <div className="project-award">🏆 App of the Year - Prolific Tech Awards 2023</div>
             <div className="project-tags">
               <span className="project-tag">React Native</span>
               <span className="project-tag">Enterprise</span>
@@ -85,7 +85,7 @@ export default function Projects() {
           <a href="https://github.com/christopherobocha/ordo" target="_blank" rel="noopener" className="project-card">
             <div className="project-role">Software Engineer</div>
             <div className="project-name">Ordo</div>
-            <p className="project-desc">Liturgical rota and clergy coordination app, built in partnership with the Cathedral Church of St Anne, Leeds — mother church of the Diocese of Leeds, serving ~170,000 Catholics across West Yorkshire.</p>
+            <p className="project-desc">Liturgical rota and clergy coordination app, built in partnership with the Cathedral Church of St Anne, Leeds - mother church of the Diocese of Leeds, serving ~170,000 Catholics across West Yorkshire.</p>
             <div className="project-tags">
               <span className="project-tag">TypeScript</span>
               <span className="project-tag">Python</span>

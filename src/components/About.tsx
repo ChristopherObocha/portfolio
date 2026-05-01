@@ -14,11 +14,11 @@ export default function About() {
         <div className="about-grid">
           <div className="about-text reveal">
             <p>
-            6+ years building production apps with <strong>TypeScript</strong> and <strong>Python</strong>. Co-founder &amp; CTO of <strong>Runwae</strong>, Lead Mobile Engineer at Hylark, massive chess fan, avid reader. I work at the intersection of software development and AI — shipping real LLM-powered features, not just prototypes.
+            6+ years building production apps with <strong>TypeScript</strong> and <strong>Python</strong>. Co-founder &amp; CTO of <strong>Runwae</strong>, Lead Mobile Engineer at Hylark, massive chess fan, avid reader. I work at the intersection of software development and AI - shipping real LLM-powered features, not just prototypes.
             </p>
 
             <p>
-              Organiser of LeedsJS — Leeds&apos;s JavaScript community — and a published speaker on mobile security. MSc Cyber Security with Distinction from the University of Hertfordshire. Prolific Tech Awards App of the Year 2023.
+              Organiser of LeedsJS - Leeds&apos;s JavaScript community - and a published speaker on mobile security. MSc Cyber Security with Distinction from the University of Hertfordshire. Prolific Tech Awards App of the Year 2023.
             </p>
             <p>
               I&apos;m increasingly convinced the most interesting engineering problems right now sit at the boundary between LLMs and real products. 
@@ -33,7 +33,7 @@ export default function About() {
               </div>
               <div>
                 <h4>App of the Year 2023</h4>
-                <p>Prolific Tech Awards &amp; UK Business Tech Awards — for GoodShape enterprise health app</p>
+                <p>Prolific Tech Awards &amp; UK Business Tech Awards - for GoodShape enterprise health app</p>
               </div>
             </div>
             <div className="highlight-card">
@@ -44,7 +44,7 @@ export default function About() {
                 </svg>
               </div>
               <div>
-                <h4>MSc Cyber Security — Distinction</h4>
+                <h4>MSc Cyber Security - Distinction</h4>
                 <p>University of Hertfordshire</p>
               </div>
             </div>
@@ -57,7 +57,7 @@ export default function About() {
               </div>
               <div>
                 <h4>6+ Years Production Experience</h4>
-                <p>React Native, TypeScript, full-stack web — shipped to real users at scale</p>
+                <p>React Native, TypeScript, full-stack web - shipped to real users at scale</p>
               </div>
             </div>
             <div className="highlight-card">
