@@ -14,8 +14,8 @@ export default function Projects() {
         <h2 className="section-title reveal">Selected work</h2>
         <div className="projects-grid reveal-stagger">
 
-          {/* Runwae — no public URL */}
-          <a href="https://runwae.io" target="_blank" rel="noopener" className="project-card">
+          {/* Runwae */}
+          <div className="project-card">
             <div className="project-role">Co-founder &amp; CTO</div>
             <div className="project-name">Runwae</div>
             <p className="project-desc">Travel-tech startup. AI-powered trip planning and group itinerary collaboration. Integrates Anthropic Claude for itinerary generation, Viator for experiences, and LiteAPI for hotel booking.</p>
@@ -28,12 +28,13 @@ export default function Projects() {
               <span className="project-tag">Claude API</span>
             </div>
             <ProjectLinks links={[
+              { type: 'web', url: 'https://runwae.io' },
               { type: 'github', url: 'https://github.com/chris-runwae/Runwae-OneStop' },
             ]} />
-          </a>
+          </div>
 
-          {/* Hylark — has public URL */}
-          <a href="https://app.hylark.com" target="_blank" rel="noopener" className="project-card">
+          {/* Hylark */}
+          <div className="project-card">
             <div className="project-role">Lead Software Engineer</div>
             <div className="project-name">Hylark</div>
             <p className="project-desc">AI-powered life management and productivity platform. ISO 27001 certified. Features notes, tasks, calendar, pinboard, links, and collaboration tools - all in one app.</p>
@@ -47,10 +48,10 @@ export default function Projects() {
               { type: 'ios', url: 'https://apps.apple.com/gb/app/hylark/id6504600893' },
               { type: 'web', url: 'https://app.hylark.com' },
             ]} />
-          </a>
+          </div>
 
-          {/* GoodShape — no public URL */}
-          <a href="https://www.goodshape.com" target="_blank" rel="noopener" className="project-card">
+          {/* GoodShape */}
+          <div className="project-card">
             <div className="project-role">Lead Software Engineer</div>
             <div className="project-name">GoodShape</div>
             <p className="project-desc">UK enterprise health and absence management app. 120,000+ annual engaged users. £220k+ project investment.</p>
@@ -62,8 +63,9 @@ export default function Projects() {
             </div>
             <ProjectLinks links={[
               { type: 'ios', url: 'https://apps.apple.com/gb/app/goodshape/id1638145769' },
+              { type: 'web', url: 'https://www.goodshape.com' },
             ]} />
-          </a>
+          </div>
 
           {/* Charge EV */}
           <div className="project-card">
@@ -81,8 +83,8 @@ export default function Projects() {
             ]} />
           </div>
 
-          {/* Ordo — no public URL */}
-          <a href="https://github.com/christopherobocha/ordo" target="_blank" rel="noopener" className="project-card">
+          {/* Ordo */}
+          <div className="project-card">
             <div className="project-role">Software Engineer</div>
             <div className="project-name">Ordo</div>
             <p className="project-desc">Liturgical rota and clergy coordination app, built in partnership with the Cathedral Church of St Anne, Leeds - mother church of the Diocese of Leeds, serving ~170,000 Catholics across West Yorkshire.</p>
@@ -95,7 +97,7 @@ export default function Projects() {
             <ProjectLinks links={[
               { type: 'github', url: 'https://github.com/christopherobocha/ordo' },
             ]} />
-          </a>
+          </div>
 
           {/* GitHub CTA */}
           <a href="https://github.com/christopherobocha" target="_blank" rel="noopener" className="project-card github-cta">
